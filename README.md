@@ -1,3 +1,6 @@
-# My Awesome Book
+# 為什麼這麼亂
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+如果，規格文件可以用純文字編輯。
+我們可以更有效地進行版本控管，不用擔心多人編輯造成文件內容的混亂，可以快速比對版本間的差異...。
+所以這是一個實驗，試試看用GitBook，撰寫SRS會發生什麼問題。
+
