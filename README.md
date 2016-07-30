@@ -18,6 +18,7 @@
 * 需要用HTML才做得到Colspan or Rowspan，比較麻煩
 * 要用url或檔案路徑才能插入圖片，截圖都需要另存成檔案
 * 大綱的階層比較少，國字的大綱要自己編
+* 封面放不進去
 
 ## 參考資料
 [Markdown語法說明](http://markdown.tw/#code)
